@@ -22,7 +22,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 - [UWave Radio App: Trailer Video](https://www.youtube.com/watch?v=MfDhygftfd4)
 
 
-## Development team
+## Development Team
 
 - Chris Oung 
 - Etienne Sotelo
