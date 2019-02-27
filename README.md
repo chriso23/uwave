@@ -4,7 +4,7 @@
 
 ---
 
-### Development team
+### Development Team
 
 - Chris
 - Etienne
