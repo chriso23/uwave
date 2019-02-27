@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<animation-list
+    android:oneshot="true"
+    android:indeterminate="true"
+    android:indeterminateBehavior="cycle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/uwave_animations1"
+        android:duration="50" />
+
+    <item
+        android:drawable="@drawable/uwave_animations3"
+        android:duration="50" />
+    
+
+    <item
+        android:drawable="@drawable/uwave_animations7"
+        android:duration="50" />
+
+
+    <item
+        android:drawable="@drawable/uwave_animations11"
+        android:duration="50" />
+
+    <item
+        android:drawable="@drawable/uwave_animations13"
+        android:duration="50" />
+
+    <item
+        android:drawable="@drawable/uwave_animation15"
+        android:duration="50" />
+
+
+
+    <item
+        android:drawable="@drawable/uwave_animations19"
+        android:duration="50" />
+
+
+    <item
+        android:drawable="@drawable/uwave_animations23"
+        android:duration="50" />
+
+    <item
+        android:drawable="@drawable/uwave_animations25"
+        android:duration="50" />
+
+
+
+    <item
+        android:drawable="@drawable/uwave_animations29"
+        android:duration="50" />
+
+    <item
+        android:drawable="@drawable/uwave_animations31"
+        android:duration="50" />
+
+
+
+    <item
+        android:drawable="@drawable/uwave_animations35"
+        android:duration="50" />
+
+    <item
+        android:drawable="@drawable/uwave_animations37"
+        android:duration="50" />
+
+
+
+    <item
+        android:drawable="@drawable/uwave_animations41"
+        android:duration="50" />
+
+
+
+    <item
+        android:drawable="@drawable/uwave_animations45"
+        android:duration="50" />
+
+
+
+    <item
+        android:drawable="@drawable/uwave_animations49"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/uwave_animations50"
+        android:duration="50" />
+
+</animation-list>

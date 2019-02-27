@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<animation-list
+    android:oneshot="false"
+    android:indeterminate="true"
+    android:indeterminateBehavior="cycle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/stop_button"
+        android:duration="150" />
+    <item
+        android:drawable="@drawable/stop_button_2"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/stop_button_3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/stop_button_4"
+        android:duration="75" />
+    <item
+        android:drawable="@drawable/stop_button_5"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_6"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_7"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_8"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_9"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_10"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_11"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_12"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/stop_button_13"
+        android:duration="75" />
+    <item
+        android:drawable="@drawable/stop_button_14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/stop_button_15"
+        android:duration="125" />
+
+
+
+</animation-list>
