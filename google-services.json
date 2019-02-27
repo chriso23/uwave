@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "275268335093",
+    "firebase_url": "https://uwave-198615.firebaseio.com",
+    "project_id": "uwave-198615",
+    "storage_bucket": "uwave-198615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275268335093:android:a8cde84d7123083d",
+        "android_client_info": {
+          "package_name": "com.example.leonardgomez.uwavefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275268335093-omjpbeb3d2msnmlidt5odqotsjhgtmoh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "275268335093-lkqtsqiij94iqdthtqdf6n0buhvn62o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_FBrjIF62i5h73qpl8tovuMSRR-YFDA"
+        },
+        {
+          "current_key": "AIzaSyBCcqmtTQ7XknHDZCGWgGJvtjg-Ha8G7v8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

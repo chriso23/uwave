@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.example.leonardgomez.uwavefinal"
+        minSdkVersion 24
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+}
+
+
+
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:26.0.2'
+    implementation 'com.github.bumptech.glide:glide:4.3.1'
+    implementation 'com.google.code.gson:gson:2.6.2'
+    implementation 'com.google.gdata:core:1.47.1'
+    implementation 'com.github.alamkanak:android-week-view:1.2.6'
+    implementation 'com.he5ed.lib:volley:android-cts-5.1_r4'
+    implementation 'com.squareup.retrofit:retrofit:1.9.0'
+    implementation 'com.googlecode.json-simple:json-simple:1.1'
+
+
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    //Firebase libraries
+    implementation 'com.google.firebase:firebase-messaging:11.8.0'
+    implementation 'com.google.android.gms:play-services-auth:11.8.0'
+    implementation 'com.google.firebase:firebase-auth:11.8.0'
+    implementation 'com.firebaseui:firebase-ui-auth:3.2.2'
+    implementation 'com.firebase:firebase-client-android:2.5.2+'
+    implementation 'com.google.firebase:firebase-core:11.8.0'
+    implementation 'com.google.firebase:firebase-database:11.8.0'
+    implementation 'com.google.firebase:firebase-storage:11.8.0'
+    implementation 'com.google.firebase:firebase-appindexing:11.8.0'
+    implementation 'com.google.firebase:firebase-config:11.8.0'
+    implementation 'com.google.android.gms:play-services-appinvite:11.8.0'
+    implementation 'com.google.firebase:firebase-analytics:11.8.0'
+    implementation 'com.firebaseui:firebase-ui-database:3.1.0'
+
+    //Crash test for UWave's chat service
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.7.1'
+    implementation 'pub.devrel:easypermissions:0.3.0'
+
+}
+apply plugin: 'com.google.gms.google-services'
