@@ -1,12 +1,20 @@
-## UWaveRadio Android App
+UWaveRadio app
+--------------
 
-**Project website**: [chrisoung.github.io/uwaveradio]()
+**Project site**: [chrisoung.github.io/uwaveradio]()
 
 ---
 
-### Development Team
+### Team members
 
-- Chris
-- Etienne
-- Leonard
-- Torin
+Chris
+Etienne
+Leonard
+Torin
+
+---
+
+### License
+
+Licensed under the [Apache-2 License](https://github.com/chrisoung/uwaveradio/blob/master/LICENSE)
+
