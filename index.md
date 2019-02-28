@@ -1,4 +1,4 @@
-UWaveRadio app
+UWaveRadio mobile app
 --------------
 
 Built a mobile app to help the [UWave Radio](uwave.fm) organization—a local radio station located at the University of Washington Bothell—reach a wider audience of listeners and participants at the UW Bothell campus. 
