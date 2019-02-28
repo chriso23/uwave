@@ -7,10 +7,13 @@ UWaveRadio app
 
 ### Team members
 
-Chris
-Etienne
-Leonard
-Torin
+- Chris
+
+- Etienne
+
+- Leonard
+
+- Torin
 
 ---
 
