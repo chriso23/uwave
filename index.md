@@ -7,7 +7,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 
 ---
 
-## Description
+### Project Description
 
 - Client: [UWave Radio](uwave.fm)
 - Source code: [GitHub Repository](https://github.com/chrisoung/uwave-android-app/tree/gh-pages)
@@ -16,13 +16,13 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 
 ---
 
-## The Development Process
+### The Development Process
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHrR_hMKWqeVFWRrEfHaYBRjDf_sbfruLtcaAzsHJpPPESqksKjv96UF0gfMXvi657U_IflOazLZxi/embed?start=true&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
 
-## Development Team
+### Development Team
 
 - Chris Oung 
 - Etienne Sotelo
