@@ -5,7 +5,7 @@ UWaveRadio App
 
 ---
 
-### Development Team
+### Contributors
 
 - Chris
 
