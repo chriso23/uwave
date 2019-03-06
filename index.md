@@ -22,7 +22,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 
 ---
 
-### Team
+### Contributors
 
 - Chris Oung 
 - Etienne Sotelo
