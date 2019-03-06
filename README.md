@@ -1,11 +1,11 @@
-UWaveRadio app
+UWaveRadio App
 --------------
 
-**Project site**: [https://chrisoung.github.io/uwaveradio](https://chrisoung.github.io/uwaveradio)
+**Project site**: [chrisoung.github.io/uwaveradio](https://chrisoung.github.io/uwaveradio)
 
 ---
 
-### Development Team
+### Contributors
 
 - Chris
 
