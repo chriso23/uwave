@@ -3,21 +3,7 @@ UWaveRadio App
 
 **Project site**: [chrisoung.github.io/uwaveradio](https://chrisoung.github.io/uwaveradio)
 
----
-
-### Contributors
-
-- Chris
-
-- Etienne
-
-- Leonard
-
-- Torin
-
----
-
-### License
-
+License
+-------
 Licensed under the [Apache-2 License](https://github.com/chrisoung/uwaveradio/blob/master/LICENSE)
 
