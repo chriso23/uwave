@@ -1,7 +1,7 @@
 UWaveRadio App
 --------------
 
-**Project site**: [chrisoung.github.io/uwaveradio](https://chrisoung.github.io/uwaveradio)
+#### [chrisoung.github.io/uwaveradio](https://chrisoung.github.io/uwaveradio)
 
 License
 -------
