@@ -4,4 +4,4 @@ UWaveRadio App
 
 License
 -------
-2019 Chris Oung, [Apache-2 License.](https://github.com/chrisoung/uwaveradio/blob/master/LICENSE)
+&copy; Chris Oung, 2019. [Apache-2 License.](https://github.com/chrisoung/uwaveradio/blob/master/LICENSE)
