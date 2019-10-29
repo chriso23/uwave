@@ -1,6 +1,6 @@
 UWaveRadio App
 --------------
-**[chrisoung.github.io/uwave-radio-app](https://chrisoung.github.io/uwave-radio-app)**
+**[chriso23.github.io/uwave-radio-app](https://chriso23.github.io/uwave-radio-app)**
 
 License
 -------
