@@ -1,4 +1,4 @@
-UWaveRadio App
+UWave Radio App
 --------------
 
 **[chriso23.github.io/uwave](https://chriso23.github.io/uwave)**
